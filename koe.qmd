@@ -1,0 +1,149 @@
+---
+title: "Knowledgecenter Open Education"
+author: 
+  - name: Hanne Oberman
+    orcid: 0000-0003-3276-2141
+    email: h.i.oberman@uu.nl
+  - name: Duco Veen
+    orcid: 0000-0002-8352-7574
+    email: d.veen@uu.nl
+  - name: Gerko Vink
+    orcid: 0000-0001-9767-1924
+    email: g.vink@uu.nl
+affiliations:
+      - institute: Methodology & Statistics @ Utrecht University
+date: December 9, 2022
+execute: 
+  echo: true
+format: 
+  revealjs:
+    theme: [solarized, gerko.scss]
+    progress: true
+    margin: 0.075
+    logo: koe.png
+    toc: true
+    toc-depth: 1
+    toc-title: Outline
+    slide-number: true
+    scrollable: false
+    width: 1200
+    reference-location: margin
+    footer: Hanne Oberman, Duco Veen and Gerko Vink
+---
+
+## Materials
+
+All materials can be found at <br><br> [www.gerkovink.com/koe](https://www.gerkovink.com/koe)
+
+## Disclaimer
+
+This project is funded from the 2022 FUSO round within the School of Social and Behavioural Sciences.
+
+Caspar van Lissa has been involved in writing the funded grant application, but has since moved to Tilburg University.
+
+Cow logo obtained [here](https://www.pngegg.com/en/png-ywfvk)
+
+# Some facts
+
+## About the UU
+Our university is often seen as an international leader in new and open developments.
+
+::: columns
+::: {.column width="70%"}
+![](img/nature.png)
+:::
+
+::: {.column width="30%"}
+![](img/eu.png)
+:::
+:::
+
+::: footer
+[Nature](https://www.nature.com/articles/d41586-021-01759-5) and [European Commission, Directorate-General for Research and Innovation, Chan, T., Utrecht University open science programme : open science monitor case study, Publications Office, 2019](https://op.europa.eu/en/publication-detail/-/publication/97ef3412-fe52-11e9-8c1f-01aa75ed71a1/language-en/format-PDF/source-241804863)
+:::
+
+## About Open Educational Materials
+KOE focuses on the form of education: so-called Open Educational Materials (OEM). 
+
+OEM can be defined as materials that are shared conform the FAIR principles. 
+
+ - as such OEM are easily findable and reusable, both within and outside of our organization. 
+
+In theory, OEM have merit over Closed EM in:
+
+- sharing
+- development
+- co-development with colleagues, professionals and students
+- transfer of ownership
+- updating materials
+- re-use (outside of scope)
+- licensing (some care in order)
+
+These developments may fortify the position of the UU as a leader in open academia. 
+
+## About You and Me
+
+### Let's start with me
+I aim to work as open as possible. But sometimes I fail.
+
+If you go to my [GitHub repositories](https://github.com/gerkovink?tab=repositories), you will find most of my activities in research, education, teaching, development and grant-writing fully open.
+
+<br><br>
+
+### About you
+Most of you will recognize the importance of collaborative research and education. 
+
+Many of you may already contribute to open education.
+
+Most initatiatives are still in the grassroots stage.
+
+# How can OE(M) aid education?
+
+## The vision
+![](https://narratives.insidehighered.com/four-pillars-of-open-science/assets/rALfdOrDqh/uugraphic-2-2560x1597.jpeg)
+
+## But there is more to OE than just M
+Many of the conversations about Open Education often circle back to Open Science and FAIR data. 
+
+![](img/fair.png)
+
+Open education can be so much more and may add to a more inclusive and fair educational climate in academia. 
+
+For example, see [this course collaboration page with students](https://github.com/gerkovink/INFOMDA1-2022) for [this course](https://www.gerkovink.com/slv)
+
+Open educational collaboration with students allows for:
+
+1. Easy management of open (source) projects and education
+2. Keeping track of fair contributions
+3. Empowering early career researchers with visualizing their contributions and impact
+4. Demonstrating skill (and lack thereof)
+
+
+# Our AIM
+
+## What we want to realize
+
+We want to connect developers of OEM into a community of practice that aims to 
+
+1. educate and inform its members about practices and workflows for creating inpiring open educational materials and activities. 
+2. fortify the identity of our university
+3. incite collaboration and knowledge exchange
+
+## What we plan to deliver
+
+1. A Knowledgecenter Open Education within Social and Behavioural Sciences. 
+2. Work together with O&T towards developing a course where educators explore which components in their education would benefit from **open** offering supervision and support for developing such activities. 
+3. Explore the legal implications and consequences of sharing an not-sharing open educational materials. 
+4. Connect early adopters, grassroots initiatives and passionate colleagues and critics into a resilient network of open education enthousiasts. 
+
+## What we need from you
+- Open content. Please give us your thoughts, your courses, your materials, and all your other open activities, such that we can collect them and use them for other people's benefit. 
+
+- Open workflows: How do you generate your open materials. What dissemination means do you use?
+
+- Motivations: Why, when and how do you choose to (not) work open.
+
+
+
+
+
