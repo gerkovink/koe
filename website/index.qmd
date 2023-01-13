@@ -1,0 +1,36 @@
+---
+title: "KOE: Knowledgecenter Open Education"
+author: 
+  - name: Hanne Oberman
+    orcid: 0000-0003-3276-2141
+    email: h.i.oberman@uu.nl
+    # affiliations: 
+    # - name: 
+  - name: Duco Veen
+    orcid: 0000-0002-8352-7574
+    email: d.veen@uu.nl
+    # affiliations: 
+    # - name: ""
+  - name: Gerko Vink
+    orcid: 0000-0001-9767-1924
+    email: g.vink@uu.nl
+    # affiliations: 
+    # - name: ""
+---
+
+Methodology & Statistics, Utrecht University <a href="https://uu.nl"><img src="/logo.png" width="16px"/></a>
+
+~This\ project\ is\ funded\ from\ the\ 2022\ FUSO\ round\ within\ the\ School\ of\ Social\ and\ Behavioural\ Sciences.~
+
+
+### About
+
+KOE focuses on the form of education: so-called Open Educational Materials (OEM).
+
+OEM can be defined as materials that are shared conform the [FAIR principles](https://www.uu.nl/en/research/open-science/tracks/fair-data-and-software).
+
+### Contact
+
+If you'd like to get into contact, please fill in our [contact form](https://forms.office.com/Pages/ResponsePage.aspx?id=oFgn10akD06gqkv5WkoQ53gZfeLOag5OkQlPWMi2pFVUQzFIOEpUSkcxVU9LTDRSOUtIUldIMFNGVS4u) (log in with your UU e-mail address to access).
+
+<!-- <iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=oFgn10akD06gqkv5WkoQ53gZfeLOag5OkQlPWMi2pFVUQzFIOEpUSkcxVU9LTDRSOUtIUldIMFNGVS4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe> -->
