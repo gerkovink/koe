@@ -41,7 +41,7 @@ This project is funded from the 2022 FUSO round within the School of Social and 
 
 Caspar van Lissa has been involved in writing the funded grant application, but has since moved to Tilburg University.
 
-Cow logo obtained [here](https://www.pngegg.com/en/png-ywfvk)
+Cow logo obtained [here](https://www.pngegg.com/en/png-ywfvk) ![](koe.png){width=3%}
 
 # Some facts
 
@@ -119,7 +119,7 @@ Open educational collaboration with students allows for:
 4. Demonstrating skill (and lack thereof)
 
 
-# Our AIM
+# Our Aim
 
 ## What we want to realize
 
@@ -143,6 +143,7 @@ We want to connect developers of OEM into a community of practice that aims to
 
 - Motivations: Why, when and how do you choose to (not) work open.
 
+## How to get in contact
 
 
 
