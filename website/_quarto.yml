@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "KOE"
+  image: koe.png
+  search: false
+  navbar:
+    left:
+      - href: index.qmd
+        text: " "
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    
+margin-header: |
+  ![~Note\.\ Cow\ logo\ obtained\ [here\.](https://www.pngegg.com/en/png-ywfvk)~](/koe.png)
+
+
+
