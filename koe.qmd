@@ -12,7 +12,6 @@ author:
     email: g.vink@uu.nl
 affiliations:
       - institute: Methodology & Statistics @ Utrecht University
-date: December 9, 2022
 execute: 
   echo: true
 format: 
@@ -33,7 +32,7 @@ format:
 
 ## Materials
 
-All materials can be found at <br><br> [www.gerkovink.com/koe](https://www.gerkovink.com/koe)
+All materials can be found at <br><br> [github.com/gerkovink/koe](https://github.com/gerkovink/koe) and [www.gerkovink.com/koe](https://www.gerkovink.com/koe) 
 
 ## Disclaimer
 
@@ -84,7 +83,7 @@ These developments may fortify the position of the UU as a leader in open academ
 ## About You and Me
 
 ### Let's start with me
-I aim to work as open as possible. But sometimes I fail.
+I aim to work as openly as possible. But sometimes I fail.
 
 If you go to my [GitHub repositories](https://github.com/gerkovink?tab=repositories), you will find most of my activities in research, education, teaching, development and grant-writing fully open.
 
@@ -97,7 +96,7 @@ Many of you may already contribute to open education.
 
 Most initatiatives are still in the grassroots stage.
 
-# How can OE(M) aid education?
+# Open Education & Materials
 
 ## The vision
 ![](https://narratives.insidehighered.com/four-pillars-of-open-science/assets/rALfdOrDqh/uugraphic-2-2560x1597.jpeg)
@@ -111,7 +110,7 @@ Open education can be so much more and may add to a more inclusive and fair educ
 
 For example, see [this course collaboration page with students](https://github.com/gerkovink/INFOMDA1-2022) for [this course](https://www.gerkovink.com/slv)
 
-Open educational collaboration with students allows for:
+Open educational collaboration with colleagues, professionals and students allows for:
 
 1. Easy management of open (source) projects and education
 2. Keeping track of fair contributions
