@@ -20,7 +20,7 @@ format:
     progress: true
     margin: 0.075
     logo: koe.png
-    toc: true
+    toc: false
     toc-depth: 1
     toc-title: Outline
     slide-number: true
