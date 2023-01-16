@@ -80,12 +80,12 @@ In theory, OEM have merit over Closed EM in:
 
 These developments may fortify the position of the UU as a leader in open academia. 
 
-## About You and Me
+## About You and us
 
-### Let's start with me
-I aim to work as openly as possible. But sometimes I fail.
+### Let's start with us
+We aim to work as openly as possible. But sometimes we fail.
 
-If you go to my [GitHub repositories](https://github.com/gerkovink?tab=repositories), you will find most of my activities in research, education, teaching, development and grant-writing fully open.
+If you go to my [GitHub repositories](https://github.com/gerkovink?tab=repositories), you will find most of our activities in research, education, teaching, development and grant-writing fully open.
 
 <br><br>
 
@@ -116,6 +116,9 @@ Open educational collaboration with colleagues, professionals and students allow
 2. Keeping track of fair contributions
 3. Empowering early career researchers with visualizing their contributions and impact
 4. Demonstrating skill (and lack thereof)
+
+::: footer
+see also e.g. https://www.gerkovink.com/opendemo/
 
 
 # Our Aim
