@@ -32,7 +32,7 @@ format:
 
 ## Materials
 
-All materials can be found at <br><br> [github.com/gerkovink/koe](https://github.com/gerkovink/koe) and [www.gerkovink.com/koe](https://www.gerkovink.com/koe) 
+All materials can be found at <br><br> [github.com/gerkovink/koe](https://github.com/gerkovink/koe) <br><br> and <br><br> [www.gerkovink.com/koe](https://www.gerkovink.com/koe) 
 
 ## Disclaimer
 
