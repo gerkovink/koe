@@ -1,30 +1,9 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "KOE: Knowledgecenter Open Education",
     "section": "",
-    "text": "Methodology & Statistics, Utrecht University \nThis project is funded from the 2022 FUSO round within the School of Social and Behavioural Sciences.\n\nAbout\nKOE focuses on the form of education: so-called Open Educational Materials (OEM).\nOEM can be defined as materials that are shared conform the FAIR principles.\n\n\nContact\nIf you’d like to get into contact, please fill in our contact form (log in with your UU e-mail address to access)."
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "KOE: Knowledgecenter Open Education",
-    "section": "About",
-    "text": "About\nKOE focuses on the form of education: so-called Open Educational Materials (OEM).\nOEM can be defined as materials that are shared conform the FAIR principles."
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "KOE: Knowledgecenter Open Education",
-    "section": "Contact",
-    "text": "Contact\nIf you’d like to get into contact, please fill in our contact form (log in with your UU e-mail address to access)."
+    "text": "Methodology & Statistics, Utrecht University \nThis project is funded from the 2022 FUSO round within the School of Social and Behavioural Sciences. The project proposal (in Dutch) can be found here.\n\nAbout\nKOE focuses on the form of education: so-called Open Educational Materials (OEM). OEM can be defined as materials that are shared conform the FAIR principles.\nSee this presentation for a brief introduction of the KOE project.\n\n\nContact\nIf you’d like to get into contact, please fill in our contact form (log in with your UU e-mail address to access).\n\n\n\nExamples\nSome examples of Open Educational Materials (OEM) developed at the Faculty of Social and Behavioural Sciences, Utrecht University :\n\nYoutube lectures under open licence\nMaterials for Supervised Learning and Visualization and the corresponding course page\nMaterials for Markup Languages and Reproducible Programming in Statistics and the corresponding course page and student repository\nKnowledge clips M&S\nCourse page for Theory Construction and Statistical Modeling\nCourse page for Battling the curse of dimensionality\nCourse page for Applied Data Analysis and Visualization\nYoutube lectures for Practicum Data Analyse"
   }
 ]
