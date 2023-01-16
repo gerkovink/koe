@@ -21,16 +21,30 @@ author:
 Methodology & Statistics, Utrecht University <a href="https://uu.nl"><img src="/logo.png" width="16px"/></a>
 
 ~This\ project\ is\ funded\ from\ the\ 2022\ FUSO\ round\ within\ the\ School\ of\ Social\ and\ Behavioural\ Sciences.~
-
+~The\ project\ proposal\ (in\ Dutch)\ can\ be\ found\ [here](https://github.com/gerkovink/FUSO2022).~
 
 ### About
 
-KOE focuses on the form of education: so-called Open Educational Materials (OEM).
+KOE focuses on the form of education: so-called Open Educational Materials (OEM). OEM can be defined as materials that are shared conform the [FAIR principles](https://www.uu.nl/en/research/open-science/tracks/fair-data-and-software). 
 
-OEM can be defined as materials that are shared conform the [FAIR principles](https://www.uu.nl/en/research/open-science/tracks/fair-data-and-software).
+See [this presentation](https://www.gerkovink.com/koe/koe.html) for a brief introduction of the KOE project.
 
 ### Contact
 
 If you'd like to get into contact, please fill in our [contact form](https://forms.office.com/Pages/ResponsePage.aspx?id=oFgn10akD06gqkv5WkoQ53gZfeLOag5OkQlPWMi2pFVUQzFIOEpUSkcxVU9LTDRSOUtIUldIMFNGVS4u) (log in with your UU e-mail address to access).
 
 <!-- <iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=oFgn10akD06gqkv5WkoQ53gZfeLOag5OkQlPWMi2pFVUQzFIOEpUSkcxVU9LTDRSOUtIUldIMFNGVS4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe> -->
+
+### Examples
+
+Some examples of Open Educational Materials (OEM) developed at the Faculty of Social and Behavioural Sciences, Utrecht University <a href="https://uu.nl"><img src="/logo.png" width="16px"/></a>:
+
+- [Youtube lectures under open licence](https://www.youtube.com/watch?v=1x3HW1RczAo)
+- Materials for [Supervised Learning and Visualization](https://github.com/gerkovink/slv) and the corresponding [course page](https://www.gerkovink.com/slv)
+- Materials for [Markup Languages and Reproducible Programming in Statistics](https://github.com/gerkovink/markup) and the corresponding [course page](https://www.gerkovink.com/markup) and [student repository](https://github.com/gerkovink/markup2021)
+- [Knowledge clips M&S](https://www.youtube.com/c/MethodologyStatisticsFSWUU)
+- Course page for [Theory Construction and Statistical Modeling](https://cjvanlissa.github.io/TCSM/)
+- Course page for [Battling the curse of dimensionality](https://uudav.nl)
+- Course page for [Applied Data Analysis and Visualization](https://adav-course-2021.netlify.app/)
+- Youtube lectures for [Practicum Data Analyse](https://www.youtube.com/watch?v=4jJSm4m9UVc&list=PLOQIOFZl7uYaFtuWgEVIeN97zei5ok5G5)
+
